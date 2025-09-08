@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Orion",
   "author": "NikeSFS",
-  "website": "https://github.com/nikesfs/micro-wake-word-models/new/main/models/v2/experiments",
+  "website": "https://github.com/nikesfs/micro-wake-word-models/new/main/models/v2",
   "model": "orion.tflite",
   "trained_languages": ["en"],
   "version": 2,
