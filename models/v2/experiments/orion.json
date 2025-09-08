@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "Orion",
-  "author": "Kevin Ahrendt",
+  "author": "NikeSFS",
   "website": "https://github.com/nikesfs/micro-wake-word-models/new/main/models/v2/experiments",
   "model": "orion.tflite",
   "trained_languages": ["en"],
